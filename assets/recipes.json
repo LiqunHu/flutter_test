@@ -1,0 +1,2298 @@
+[
+  {
+    "_id": {
+      "$oid": "5e597d399416281b734828a3"
+    },
+    "image": [
+      "https://d1dd4ethwnlwo2.cloudfront.net/wp-content/uploads/2016/05/classicMarinara_main.jpg",
+      "https://noshingwiththenolands.com/wp-content/uploads/2014/08/Classic-Freezer-Tomato-Sauce-by-Noshing-With-The-Nolands-Small.jpg"
+    ],
+    "keywords": [
+      "featured",
+      "easy",
+      "vegetarian"
+    ],
+    "name": "Classic Tomato Sause",
+    "author": [
+      {
+        "_id": {
+          "$oid": "5e597d399416281b734828a4"
+        },
+        "name": "Whirlpool"
+      }
+    ],
+    "cookTime": 900,
+    "prepTime": 300,
+    "totalTime": 1200,
+    "description": "It doesn't get any easier than this! This fool-proof tomato sause will leave your friends asking for seconds.",
+    "recipeCategory": "dinner",
+    "recipeIngredient": [
+      {
+        "_id": {
+          "$oid": "5e597d399416281b734828a5"
+        },
+        "name": "olive oil",
+        "standardUnit": null,
+        "standardQuantity": null,
+        "metricUnit": "g",
+        "metricQuantity": 25,
+        "ordinalQuantity": null
+      },
+      {
+        "_id": {
+          "$oid": "5e597d399416281b734828a6"
+        },
+        "name": "onion,diced",
+        "standardUnit": null,
+        "standardQuantity": null,
+        "metricUnit": "g",
+        "metricQuantity": 60,
+        "ordinalQuantity": null
+      },
+      {
+        "_id": {
+          "$oid": "5e597d399416281b734828a7"
+        },
+        "name": "salt",
+        "standardUnit": "",
+        "standardQuantity": null,
+        "metricUnit": "g",
+        "metricQuantity": 2,
+        "ordinalQuantity": null
+      },
+      {
+        "_id": {
+          "$oid": "5e597d399416281b734828a8"
+        },
+        "name": "tomato puree",
+        "standardUnit": null,
+        "standardQuantity": null,
+        "metricUnit": "g",
+        "metricQuantity": 250,
+        "ordinalQuantity": null
+      },
+      {
+        "_id": {
+          "$oid": "5e597d399416281b734828a9"
+        },
+        "name": "fresh basil",
+        "standardUnit": null,
+        "standardQuantity": null,
+        "metricUnit": null,
+        "metricQuantity": null,
+        "ordinalQuantity": 2
+      }
+    ],
+    "recipeCuisine": "Naples",
+    "recipeSteps": [
+      {
+        "timerValues": null,
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/dddb82cf36ffc36b7b588dee76b0d2d29c081dc4.png"
+        ],
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828aa"
+        },
+        "mediaType": "IMAGE",
+        "cookingType": null,
+        "timerType": null,
+        "temperature": null,
+        "timeInSeconds": null,
+        "description": "Add [0] to the pan.",
+        "title": "Add olive oil to the pan",
+        "subtitle": null,
+        "titleInProgress": null,
+        "stepType": 3
+      },
+      {
+        "timerValues": null,
+        "mediaURLs": null,
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828ab"
+        },
+        "mediaType": null,
+        "cookingType": "PREHEAT_TEMP",
+        "timerType": null,
+        "temperature": 260,
+        "timeInSeconds": null,
+        "description": null,
+        "title": "Preheat",
+        "subtitle": null,
+        "titleInProgress": "Preheating...",
+        "stepType": 1
+      },
+      {
+        "timerValues": null,
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/d3a94112cadfffff21f362be773b43d3f4660d43.png"
+        ],
+        "mediaAutoplay": true,
+        "_id": {
+          "$oid": "5e597d399416281b734828ac"
+        },
+        "mediaType": "VIDEO",
+        "cookingType": null,
+        "timerType": null,
+        "temperature": null,
+        "timeInSeconds": null,
+        "description": "Add [1] to the pan",
+        "title": "Add onion",
+        "subtitle": null,
+        "titleInProgress": null,
+        "stepType": 3
+      },
+      {
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/d3a94112cadfffff21f362be773b43d3f4660d43.png",
+          "https://clc-image.s3.us-east-2.amazonaws.com/d475ff46e95018dee42997fb007fb07872bafd5e.png"
+        ],
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828ad"
+        },
+        "mediaType": "IMAGE_COMP",
+        "cookingType": "SIMPLE_TEMP",
+        "timerType": "STOPWATCH",
+        "temperature": 260,
+        "timeInSeconds": 180,
+        "description": "Fry onion for at least 2-3 mins and stir occationaly until brown",
+        "title": "Frying onion",
+        "subtitle": null,
+        "titleInProgress": "Frying onion",
+        "stepType": 2
+      },
+      {
+        "timerValues": null,
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/f62860b7d148350667109923aa8b41c224fa2f24.png"
+        ],
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828ae"
+        },
+        "mediaType": "IMAGE",
+        "cookingType": null,
+        "timerType": null,
+        "temperature": null,
+        "timeInSeconds": null,
+        "description": "Add [3] puree to the pan",
+        "title": "Add tomato puree",
+        "subtitle": null,
+        "titleInProgress": null,
+        "stepType": 3
+      },
+      {
+        "timerValues": null,
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/8bd68ee80f98a0740664025394e9487ba283bffa.png"
+        ],
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828af"
+        },
+        "mediaType": "IMAGE",
+        "cookingType": null,
+        "timerType": null,
+        "temperature": null,
+        "timeInSeconds": null,
+        "description": "Add [2] to the pan.",
+        "title": "Add salt",
+        "subtitle": null,
+        "titleInProgress": null,
+        "stepType": 3
+      },
+      {
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/1da997d27b127f78e4f4838d19d3dd0f5fc3dd58.png"
+        ],
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828b0"
+        },
+        "mediaType": "IMAGE",
+        "cookingType": "SIMPLE_TEMP",
+        "timerType": "STOPWATCH",
+        "temperature": 210,
+        "timeInSeconds": 480,
+        "description": "Simmering the sause until it reaches your preferred thickness",
+        "title": "Simmering",
+        "subtitle": null,
+        "titleInProgress": "Simmering"
+      },
+      {
+        "timerValues": null,
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/1af8db5b40d9e0996ccce90d2f57106d07894fa8.png"
+        ],
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828b1"
+        },
+        "mediaType": "IMAGE",
+        "cookingType": "SIMPLE_TEMP",
+        "timerType": null,
+        "temperature": 140,
+        "timeInSeconds": null,
+        "description": "Keeping your sause warm",
+        "title": "Keeping warm",
+        "subtitle": null,
+        "titleInProgress": null,
+        "stepType": 2
+      },
+      {
+        "timerValues": null,
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/2d8e6cd13843f4962e4efe4f73b379ea32a88a90.png"
+        ],
+        "mediaAutoplay": null,
+        "_id": {
+          "$oid": "5e597d399416281b734828b2"
+        },
+        "mediaType": "IMAGE",
+        "cookingType": null,
+        "timerType": null,
+        "temperature": null,
+        "timeInSeconds": null,
+        "description": "Add [4] to finsh your sause. Eojoy!",
+        "title": "Add basil",
+        "subtitle": null,
+        "titleInProgress": null,
+        "stepType": 6
+      }
+    ],
+    "dataPublished": {
+      "$date": "2020-02-28T20:51:05.245Z"
+    },
+    "recipeIsPrivate": false
+  },
+  {
+    "_id": {
+      "$oid": "602405e81d4fe42ee74b0fe8"
+    },
+    "image": [
+      "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_17_53-3b46e9a425abe6405b79e2834fbe3707bb9bd2cf.png"
+    ],
+    "keywords": [
+      "FEATURED",
+      "EASY",
+      "VEGETARIAN"
+    ],
+    "name": "Fluffy Pancakes",
+    "description": "This easy pancake recipe makes light and fluffy pancakes that are great for a weekend brunch. ",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "French",
+    "prepTime": 300,
+    "cookTime": 600,
+    "totalTime": 5400,
+    "recipeIngredient": [
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b92"
+        },
+        "name": "Flour",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "cup",
+        "metricQuantity": 127,
+        "metricUnit": "g"
+      },
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b93"
+        },
+        "name": "Baking powder",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b94"
+        },
+        "name": "Sugar",
+        "ordinalQuantity": null,
+        "standardQuantity": 2,
+        "standardUnit": "Tbsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b95"
+        },
+        "name": "Salt",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b96"
+        },
+        "name": "Milk",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "cup",
+        "metricQuantity": 115,
+        "metricUnit": "ml"
+      },
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b98"
+        },
+        "name": "Eggs",
+        "ordinalQuantity": 1,
+        "standardQuantity": null,
+        "standardUnit": null,
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b99"
+        },
+        "name": "Butter",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "Tbsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepType": 9
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_35_04-9007f010a9a10bb4126ad0503337a8cd030eae4f.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b9a"
+        },
+        "title": "Mix dry ingredient",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Mix [0], [1], [2] and [3] in a bowl",
+        "mediaType": "Image",
+        "cookingType": "None",
+        "timerType": "None",
+        "temperature": 0,
+        "stepType": 4
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_37_11-2e725ed5fe194d2fc9e6fcab0e76b020f4f9f0b2.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b9b"
+        },
+        "title": "Add wet ingredient",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Slowly add [4] and [5] to the bowl, Whisk gently until flour disappears. Make sure to check the consistency of the batter",
+        "mediaType": "Image",
+        "cookingType": "",
+        "timerType": "",
+        "temperature": 0,
+        "stepType": 4
+      },
+      {
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "mediaURLs": [],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b9d"
+        },
+        "title": "Reset batter",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Rest batter at room temperature for 2-3 minutes to ensure you get airy pancakes",
+        "mediaType": "None",
+        "cookingType": null,
+        "timerType": "STOPWATCH",
+        "timeInSeconds": 120,
+        "temperature": 0,
+        "stepType": 5
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b9f"
+        },
+        "title": "Preheat",
+        "subtitle": "",
+        "titleInProgress": "Preheating...",
+        "description": null,
+        "mediaType": "None",
+        "cookingType": "PREHEAT_TEMP",
+        "timerType": "",
+        "temperature": 350,
+        "stepType": 1
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_42_31-21b52b6099e05e4ddfe7e69a6b7a0ea87373a6a8.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44b9e"
+        },
+        "title": "Add butter to the pan and spread it",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "add [6] to the pan",
+        "mediaType": "Image",
+        "cookingType": "",
+        "timerType": "",
+        "temperature": 0,
+        "stepType": 4
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_43_52-ee236cf0022312cbad62f63b7b425cd5377ab15e.png"
+        ],
+        "mediaAutoplay": true,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44ba0"
+        },
+        "title": "Pour batter",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Spoon a scoop of batter into the center of the pan. Press 'Next' button when completed",
+        "mediaType": "Video",
+        "cookingType": "",
+        "timerType": "",
+        "temperature": 350,
+        "stepType": 4
+      },
+      {
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_44_55-d51992030af8c19d8e46f14e6d281ca97e2021cd.png",
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_45_02-d475ff46e95018dee42997fb007fb07872bafd5e.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44ba1"
+        },
+        "title": "Cook Pancake",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Cook for 2-3 minutes or until the batter is full of air bubbles and slides off the pan",
+        "mediaType": "IMAGE_COMP",
+        "cookingType": "SIMPLE_TEMP",
+        "timerType": "STOPWATCH",
+        "temperature": 350,
+        "timeInSeconds": 180,
+        "stepType": 2
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_45_57-16c31ebc338082c4fb9b57b1c74058822918b427.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44ba2"
+        },
+        "title": "Flip pancake",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Use a spatula to flip the pancake. Press 'Next' button when completed",
+        "mediaType": "Image",
+        "cookingType": "",
+        "timerType": "",
+        "temperature": 350,
+        "stepType": 4
+      },
+      {
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "mediaURLs": [],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44ba3"
+        },
+        "title": "Cook Pancake",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Time estimate based on previous cooking time",
+        "mediaType": "None",
+        "cookingType": "SIMPLE_TEMP",
+        "timerType": "STOPWATCH",
+        "temperature": 350,
+        "timeInSeconds": 180,
+        "stepType": 2
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-15_48_04-3b46e9a425abe6405b79e2834fbe3707bb9bd2cf.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44ba4"
+        },
+        "title": "Serve warm",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "These pancakes are better eaten warm. Serve immediately and indulge with toppings. Enjoy!",
+        "mediaType": "Image",
+        "cookingType": "",
+        "timerType": "",
+        "temperature": 0,
+        "stepType": 6
+      }
+    ],
+    "author": [
+      {
+        "_id": {
+          "$oid": "5e78da39bdf8566cedc44ba5"
+        },
+        "name": ""
+      }
+    ],
+    "dataPublished": {
+      "$date": "2020-03-23T15:48:09.719Z"
+    },
+    "recipeIsPrivate": false
+  },
+  {
+    "_id": {
+      "$oid": "602406201d4fe42ee74b0fe9"
+    },
+    "image": [
+      "https://clc-image.s3.us-east-2.amazonaws.com/20200323-14_25_57-c36f017e7c9c4d8b8117cb0c42fc4f36405ef87a.png"
+    ],
+    "keywords": [
+      "FEATURED",
+      "EASY",
+      "VEGETARIAN"
+    ],
+    "name": "Sunny-Side Up Egg",
+    "description": "This fool-proof method of cooking eggs will ensure you always have tender whites and runny yolks",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "French",
+    "prepTime": 120,
+    "cookTime": 480,
+    "totalTime": 600,
+    "recipeIngredient": [
+      {
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b87"
+        },
+        "name": "butter",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "Tbsp",
+        "metricQuantity": 50,
+        "metricUnit": "g"
+      },
+      {
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b88"
+        },
+        "name": "egg",
+        "ordinalQuantity": 2,
+        "standardQuantity": null,
+        "standardUnit": null,
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b89"
+        },
+        "name": "salt",
+        "ordinalQuantity": null,
+        "standardQuantity": null,
+        "standardUnit": "to taste",
+        "metricQuantity": null,
+        "metricUnit": "to taste"
+      },
+      {
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b8a"
+        },
+        "name": "black pepper, ground",
+        "ordinalQuantity": null,
+        "standardQuantity": null,
+        "standardUnit": "to taste",
+        "metricQuantity": null,
+        "metricUnit": "to taste"
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepType": 9
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b8c"
+        },
+        "title": "Preheat the pan",
+        "subtitle": "",
+        "titleInProgress": "Preheating the pan",
+        "description": null,
+        "mediaType": "None",
+        "cookingType": "PREHEAT_TEMP",
+        "timerType": "",
+        "temperature": 250,
+        "stepType": 1
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-14_28_07-21b52b6099e05e4ddfe7e69a6b7a0ea87373a6a8.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b8b"
+        },
+        "title": "Add butter to the pan",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Add [0] to the pan and spread it",
+        "mediaType": "Image",
+        "cookingType": "None",
+        "timerType": "None",
+        "temperature": 0,
+        "stepType": 3
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-14_32_38-58222e769a0fadf4d795ebf20f4777177853db37.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b8d"
+        },
+        "title": "Add egg",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Gently crack [1] into the pan",
+        "mediaType": "Image",
+        "cookingType": "None",
+        "timerType": "None",
+        "temperature": 250,
+        "stepType": 3
+      },
+      {
+        "timerValues": [
+          15,
+          30,
+          60
+        ],
+        "mediaURLs": [
+          "https://www.simplyrecipes.com/wp-content/uploads/2018/12/Fry-an-Egg-METHOD-3.jpg"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b8e"
+        },
+        "title": "Frying egg...",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": null,
+        "mediaType": "Image",
+        "cookingType": "SIMPLE_TEMP",
+        "timerType": "STOPWATCH",
+        "temperature": 250,
+        "timeInSeconds": 360,
+        "stepType": 2
+      },
+      {
+        "timerValues": [
+          null
+        ],
+        "mediaURLs": [
+          "https://clc-image.s3.us-east-2.amazonaws.com/20200323-14_34_58-5c6803ce3b85eda06f04b4c9ca091b42c82b3cf2.png"
+        ],
+        "mediaAutoplay": false,
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b8f"
+        },
+        "title": "Serve and season",
+        "subtitle": "",
+        "titleInProgress": "",
+        "description": "Serve hot. Add [2] and [3] to taste. Enjoy!",
+        "mediaType": "Image",
+        "cookingType": "",
+        "timerType": "",
+        "temperature": 0,
+        "stepType": 6
+      }
+    ],
+    "author": [
+      {
+        "_id": {
+          "$oid": "5e78c91dbdf8566cedc44b90"
+        },
+        "name": ""
+      }
+    ],
+    "dataPublished": {
+      "$date": "2020-03-23T14:35:09.365Z"
+    },
+    "recipeIsPrivate": false
+  },
+  {
+    "_id": {
+      "$oid": "60305bf4f6822f6912dcf71c"
+    },
+    "recipeId": 123,
+    "name": "Chicken and Broccoli Stir Fry",
+    "description": "super easy and spicy delicious!",
+    "image": [
+      "https://www.dinnerwithtayo.com/wp-content/uploads/2016/05/434A8779.jpg"
+    ],
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "keywords": [
+      "chicken",
+      "broccoli",
+      "low carb"
+    ],
+    "servingSize": 2,
+    "recipeIsPrivate": false,
+    "prepTime": 300,
+    "cookTime": 600,
+    "totalTime": 900,
+    "recipeIngredient": [
+      {
+        "name": "chicken breast",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.8,
+        "standardUnit": "lbs",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "olive oil",
+        "ordinalQuantity": null,
+        "standardQuantity": 3,
+        "standardUnit": "tbsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "ground black pepper",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "parsley flakes",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "chili garlic sauce",
+        "ordinalQuantity": null,
+        "standardQuantity": 5,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "maggi",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "broccoli",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "lbs",
+        "metricQuantity": null,
+        "metricUnit": null
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepId": 1,
+        "stepType": 9
+      },
+      {
+        "stepId": 2,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "Cut the [0] into small cubes of 1 inch in a small bowl, mix it with [2], [3], [4], [5] and [1, 0.34].",
+        "mediaURLs": [
+          "https://www.dinnerwithtayo.com/wp-content/uploads/2016/05/434A8758.jpg"
+        ]
+      },
+      {
+        "stepId": 3,
+        "title": "Reset batter",
+        "stepType": 5,
+        "description": "Set aside to let it marinate",
+        "mediaURLs": [
+          "https://www.dinnerwithtayo.com/wp-content/uploads/2016/05/434A8771.jpg"
+        ],
+        "timeInSeconds": 300
+      },
+      {
+        "stepId": 4,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "Cut the [6] in small pieces and set aside",
+        "mediaURLs": [
+          "https://www.dinnerwithtayo.com/wp-content/uploads/2016/05/434A8771.jpg"
+        ]
+      },
+      {
+        "stepId": 5,
+        "title": "Reset batter",
+        "stepType": 1,
+        "temperature": 350,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 6,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Add [1,0.67] and allow it to heat up.",
+        "timeInSeconds": 30,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 350,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 7,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add the cut broccoli into the pan",
+        "mediaURLs": [
+          "https://www.dinnerwithtayo.com/wp-content/uploads/2016/05/434A8773.jpg"
+        ],
+        "temperature": 350,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 8,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Stir fry the broccoli",
+        "timeInSeconds": 180,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 350,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 9,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add the chicken mix.",
+        "mediaURLs": [
+          "https://www.dinnerwithtayo.com/wp-content/uploads/2016/05/434A8774.jpg"
+        ],
+        "temperature": 350,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 10,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Stir the chicken and broccoli",
+        "timeInSeconds": 90,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 350,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 11,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Cover the pan and cook until done.",
+        "timeInSeconds": 360,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 12,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "This step will keep the food warm however. remove the lid and check if chicken is cooked well if not you can go back a step and add time.If you are ready to serve press done and power off the cooktop by pressing the POWER button.Enjoy!",
+        "mediaURLs": [
+          "https://www.dinnerwithtayo.com/wp-content/uploads/2016/05/434A8776.jpg"
+        ],
+        "timeInSeconds": 600,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 175,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 100,
+        "powerMin": 50
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "603573cd9d49f4b63b67ee5b"
+    },
+    "recipeId": 124,
+    "name": "Fried Rice",
+    "description": "When it is just too hot to grill or even turn on the oven, resist the urge to grab those take-out menus! This awesome stove top recipe for Easy Fried Rice is just what you need for these dog days of summer..or for anytime.  Just make some rice, let it cool in the fridge and 15 minutes later dinner is on the table. To make it more hearty, you can add in some cooked chicken or shrimp.",
+    "image": [
+      "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+    ],
+    "cuisine": "Chinese",
+    "category": "Dinner",
+    "keywords": [
+      "Easy",
+      "leftover",
+      "rice"
+    ],
+    "servingSize": 2,
+    "recipeIsPrivate": false,
+    "prepTime": 300,
+    "cookTime": 600,
+    "totalTime": 900,
+    "recipeIngredient": [
+      {
+        "name": "Butter",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "tbsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Eggs",
+        "ordinalQuantity": 2,
+        "standardQuantity": null,
+        "standardUnit": null,
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Frozen peas and carrots",
+        "ordinalQuantity": null,
+        "standardQuantity": 6,
+        "standardUnit": "onces",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Minced garlic",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Salt, pepper",
+        "ordinalQuantity": null,
+        "standardQuantity": null,
+        "standardUnit": "to taste",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Cooked rice - cold",
+        "ordinalQuantity": null,
+        "standardQuantity": 2,
+        "standardUnit": "cups",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Green Onions",
+        "ordinalQuantity": 1.5,
+        "standardQuantity": null,
+        "standardUnit": null,
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Soy Sauce",
+        "ordinalQuantity": null,
+        "standardQuantity": 3,
+        "standardUnit": "tbsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Oyster Sauce",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "tbsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Sesame Oil ",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepId": 1,
+        "stepType": 9
+      },
+      {
+        "stepId": 2,
+        "title": "Recipe Step",
+        "stepType": 1,
+        "temperature": 265,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 3,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "Add the [0,0.5] and let it melt",
+        "timeInSeconds": 45,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 4,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "Whisk [1] in the pan and scramble ",
+        "timeInSeconds": 90,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 5,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Remove the egg from the pan and place the pan back in order to keep the temperature ",
+        "timeInSeconds": 30,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 6,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Add [0,0.5] and [3] in the pan",
+        "timeInSeconds": 30,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 7,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "Sautèè the garlic ",
+        "timeInSeconds": 60,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 8,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Add [2]",
+        "timeInSeconds": 30,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 340,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 9,
+        "title": "Recipe Step",
+        "stepType": 1,
+        "description": "Stir fry frozen veggies until they are roasted",
+        "timeInSeconds": 240,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 340,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": []
+      },
+      {
+        "stepId": 10,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Cut [6] in small pieces  ",
+        "temperature": 340,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 10,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Add the [5], [7], [8], [9], scrambed eggs and [6]",
+        "temperature": 340,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-2.jpg"
+        ]
+      },
+      {
+        "stepId": 11,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "Stir fry and blend everything together and add [4]",
+        "timeInSeconds": 420,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 340,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-rice-6.jpg"
+        ]
+      },
+      {
+        "stepId": 12,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "This step will keep the food warm however. remove the lid and check if rice is cooked well if not you can go back a step and add time.If you are ready to serve press done and power off the cooktop by pressing the POWER button.Enjoy!",
+        "timeInSeconds": 600,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 1400,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://www.mustlovehome.com/wp-content/uploads/2016/06/Fried-Rice-7.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "60359b7d9d49f4b63b67ee5e"
+    },
+    "recipeId": 125,
+    "name": "Homemade Alfredo Sauce",
+    "description": "Alfredo Sauce is the most creamy and delicious homemade alfredo sauce that you will ever make!   This is a tried and true recipe and you will agree that it is the best recipe out there!",
+    "image": [
+      "https://therecipecritic.com/wp-content/uploads/2016/01/homemadealfredo4.jpg",
+      "https://therecipecritic.com/wp-content/uploads/2016/01/homemadealfredo2.jpg",
+      "https://therecipecritic.com/wp-content/uploads/2016/01/homemadealfredo3-650x975.jpg"
+    ],
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "keywords": [
+      "Cheese",
+      "pasta sauce",
+      "low carb"
+    ],
+    "servingSize": 2,
+    "recipeIsPrivate": false,
+    "prepTime": 600,
+    "cookTime": 300,
+    "totalTime": 900,
+    "recipeIngredient": [
+      {
+        "name": "Butter",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.25,
+        "standardUnit": "cup",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Heavy Whipped cream",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "cup",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Cream Cheese",
+        "ordinalQuantity": null,
+        "standardQuantity": 2,
+        "standardUnit": "ounces",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Minced garlic",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "cloves",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Garlic powder",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Italian seasoning",
+        "ordinalQuantity": null,
+        "standardQuantity": 1,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Salt",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.25,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Pepper",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.25,
+        "standardUnit": "tsp",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Grated Parmesan cheese",
+        "ordinalQuantity": null,
+        "standardQuantity": 0.5,
+        "standardUnit": "cup",
+        "metricQuantity": null,
+        "metricUnit": null
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepId": 1,
+        "stepType": 9
+      },
+      {
+        "stepId": 2,
+        "stepType": 4,
+        "title": "Recipe Step",
+        "description": "Add together [0], [1] and [2] in the pan",
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      },
+      {
+        "stepId": 3,
+        "title": "Recipe Step",
+        "stepType": 1,
+        "description": "Start whisking together to mix all the ingredients",
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": []
+      },
+      {
+        "stepId": 4,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "Continue to whisk",
+        "timeInSeconds": 240,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      },
+      {
+        "stepId": 5,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Add [3], [4], [5], [6] and [7].",
+        "timeInSeconds": 120,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      },
+      {
+        "stepId": 6,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Mix all together until smooth",
+        "timeInSeconds": 30,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      },
+      {
+        "stepId": 7,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Add [8]",
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      },
+      {
+        "stepId": 8,
+        "title": "Recipe Step",
+        "stepType": 3,
+        "description": "Mix together until smooth",
+        "timeInSeconds": 60,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      },
+      {
+        "stepId": 9,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "Let it thicken and whisk if needed",
+        "timeInSeconds": 480,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 210,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      },
+      {
+        "stepId": 10,
+        "title": "Recipe Step",
+        "stepType": 2,
+        "description": "This step will keep the food warm. Check if sauce is done to your liking. If not done go a step back and add more time.If done to your likely periodically check and stir while the cooktop keeps the sauce warm. When ready to serve press done and power off the cooktop by pressing the POWER button.Enjoy!",
+        "timeInSeconds": 600,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "kp": 8000,
+        "TI": 100,
+        "powerMax": 700,
+        "powerMin": 50,
+        "mediaURLs": [
+          "https://therecipecritic.com/wp-content/uploads/2016/02/alfredo3-650x975.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "60305bf4f6822f6912dcf71c"
+    },
+    "recipeId": 123,
+    "name": "Besciamel pasta with ham",
+    "description": "Creamy and cheese quick pasta recipe!",
+    "image": [
+      "https://www.oggi.it/cucina/wp-content/uploads/sites/19/2014/07/PastaAlForno_91g.jpg"
+    ],
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "keywords": [
+      "pasta",
+      "easy dinner",
+      "besciamella"
+    ],
+    "servingSize": 2,
+    "recipeIsPrivate": false,
+    "prepTime": 300,
+    "cookTime": 900,
+    "totalTime": 1200,
+    "recipeIngredient": [
+      {
+        "name": "butter",
+        "ordinalQuantity": null,
+        "standardQuantity": 40,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "flour",
+        "ordinalQuantity": null,
+        "standardQuantity": 40,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "milk",
+        "ordinalQuantity": null,
+        "standardQuantity": 400,
+        "standardUnit": "ml",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "salt, pepper, nutmeg",
+        "ordinalQuantity": null,
+        "standardQuantity": null,
+        "standardUnit": "to taste",
+        "metricQuantity": null,
+        "metricUnit": "to taste"
+      },
+      {
+        "name": "ham",
+        "ordinalQuantity": null,
+        "standardQuantity": 50,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "Parmesan cheese",
+        "ordinalQuantity": null,
+        "standardQuantity": 20,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "pasta cooking water",
+        "ordinalQuantity": null,
+        "standardQuantity": 60,
+        "standardUnit": "ml",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "pasta",
+        "ordinalQuantity": null,
+        "standardQuantity": 200,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepId": 1,
+        "stepType": 9
+      },
+      {
+        "stepId": 2,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "Boil some water separately from the cooking zone you choose for your guided recipe ",
+        "mediaURLs": [
+          "https://www.focusjunior.it/content/uploads/2017/06/acqua-bolle.jpg"
+        ]
+      },
+      {
+        "stepId": 3,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "Cut the [4] in pieces at your preference",
+        "mediaURLs": [
+          "https://www.granconsigliodellaforchetta.it/wp-content/uploads/2019/04/Crocchette-di-Prosciutto-croquetas-de-jamon-02.jpg"
+        ]
+      },
+      {
+        "stepId": 4,
+        "title": "Reset batter",
+        "stepType": 1,
+        "temperature": 265,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 5,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add [0] and let it melt",
+        "mediaURLs": [
+          "https://thumbs.dreamstime.com/t/donna-che-mescola-burro-fuso-padella-sulla-stufa-primo-piano-150175846.jpg"
+        ],
+        "temperature": 265,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 6,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add [1] and whisk",
+        "mediaURLs": [
+          "https://www.misya.info/wp-content/uploads/2014/11/besciamella-2.jpg"
+        ],
+        "temperature": 265,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 7,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Continue to whisk until the mixture has sligthly browned and is smooth ",
+        "timeInSeconds": 120,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 8,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Add [2] and whisk until smooth  ",
+        "timeInSeconds": 120,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 195,
+        "powerMax": 1000,
+        "powerMin": 50
+      },
+      {
+        "stepId": 9,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Adjust with [3], let it thicken to the desired thickness",
+        "timeInSeconds": 300,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 140,
+        "powerMax": 1000,
+        "powerMin": 50
+      },
+      {
+        "stepId": 10,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "When [7] is ready, add to the Besciamella together with [6], [5] and chopped [4]. Mix it all together ",
+        "mediaURLs": [
+          "https://www.oggi.it/cucina/wp-content/uploads/sites/19/2014/07/PastaAlForno_91g.jpg"
+        ],
+        "temperature": 160,
+        "powerMax": 900,
+        "powerMin": 50
+      },
+      {
+        "stepId": 12,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "This step will keep the food warm however. If you are ready to serve press done and power off the cooktop by pressing the POWER button.Enjoy!",
+        "mediaURLs": [
+          "https://www.oggi.it/cucina/wp-content/uploads/sites/19/2014/07/PastaAlForno_91g.jpg"
+        ],
+        "timeInSeconds": 600,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "powerMax": 100,
+        "powerMin": 50
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "60305bf4f6822f6912dcf71c"
+    },
+    "recipeId": 123,
+    "name": "Zucchini Omelette",
+    "description": "Fast omelette with zucchini",
+    "image": [
+      "https://blog.giallozafferano.it/lacucinadirosalba/wp-content/uploads/2020/05/DSC3066_00001.jpg"
+    ],
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "keywords": [
+      "Eggs",
+      "quick omelette",
+      "vegetarian"
+    ],
+    "servingSize": 2,
+    "recipeIsPrivate": false,
+    "prepTime": 300,
+    "cookTime": 1200,
+    "totalTime": 1500,
+    "recipeIngredient": [
+      {
+        "name": "olive oil",
+        "ordinalQuantity": null,
+        "standardQuantity": 10,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "eggs",
+        "ordinalQuantity": 4,
+        "standardQuantity": null,
+        "standardUnit": null,
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "zucchini",
+        "ordinalQuantity": null,
+        "standardQuantity": 200,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "salt, pepper, nutmeg",
+        "ordinalQuantity": null,
+        "standardQuantity": null,
+        "standardUnit": "to taste",
+        "metricQuantity": null,
+        "metricUnit": "to taste"
+      },
+      {
+        "name": "Parmesan cheese",
+        "ordinalQuantity": null,
+        "standardQuantity": 10,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepId": 1,
+        "stepType": 9
+      },
+      {
+        "stepId": 2,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "Cut [2] in thin rounds ",
+        "mediaURLs": [
+          "https://madiaspa.it/wp-content/uploads/2018/10/624200960.jpg"
+        ]
+      },
+      {
+        "stepId": 3,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "In a bowl, whisk the [1] and [4], then adjust with [3] ",
+        "mediaURLs": [
+          "https://www.misya.info/wp-content/uploads/2016/05/2-sbattere-uova.jpg"
+        ]
+      },
+      {
+        "stepId": 4,
+        "title": "Reset batter",
+        "stepType": 1,
+        "temperature": 320,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 5,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add the [0]",
+        "mediaURLs": [
+          "https://www.cesarelanza.com/wp/wp-content/uploads/2018/11/padella-olio.jpg"
+        ],
+        "temperature": 320,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 6,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Add [2] on a single layer and flip when needed  ",
+        "timeInSeconds": 450,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 320,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 7,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add the egg mixture",
+        "mediaURLs": [
+          "https://www.thedeliciouscrescent.com/wp-content/uploads/2017/04/Persian-Zucchini-Frittata-Kuku-Prep-6.jpg"
+        ],
+        "temperature": 320,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 8,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Cover with lid and let the first side cook ",
+        "timeInSeconds": 300,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "powerMax": 1000,
+        "powerMin": 50
+      },
+      {
+        "stepId": 9,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "FLip the omelette gently",
+        "mediaURLs": [
+          "https://www.lgvshopping.com/immagini-prodotti/1922020OPERCHIO5.jpg"
+        ],
+        "temperature": 265,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 10,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Cover again and let cook the second side",
+        "timeInSeconds": 300,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 265,
+        "powerMax": 1000,
+        "powerMin": 50
+      },
+      {
+        "stepId": 11,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "This step will keep the food warm however. If you are ready to serve press done and power off the cooktop by pressing the POWER button.Enjoy!",
+        "mediaURLs": [
+          "https://blog.giallozafferano.it/lacucinadirosalba/wp-content/uploads/2020/05/DSC3066_00001.jpg"
+        ],
+        "timeInSeconds": 600,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "powerMax": 100,
+        "powerMin": 50
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "60305bf4f6822f6912dcf71c"
+    },
+    "recipeId": 123,
+    "name": "Stir fryied salmon and asparagus",
+    "description": "Enjoy a one pot fancy meal with salmon and asparagus",
+    "image": [
+      "https://static.cookist.it/wp-content/uploads/sites/21/2020/03/Salmone-al-forno-con-asparagi-1200x675.jpg"
+    ],
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "keywords": [
+      "Fish",
+      "one pot meal",
+      "quick dinner"
+    ],
+    "servingSize": 2,
+    "recipeIsPrivate": false,
+    "prepTime": 300,
+    "cookTime": 1200,
+    "totalTime": 1500,
+    "recipeIngredient": [
+      {
+        "name": "Salmon",
+        "ordinalQuantity": null,
+        "standardQuantity": 200,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "asparagus",
+        "ordinalQuantity": null,
+        "standardQuantity": 100,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "butter",
+        "ordinalQuantity": null,
+        "standardQuantity": 5,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "olive oil",
+        "ordinalQuantity": null,
+        "standardQuantity": 10,
+        "standardUnit": "g",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "water",
+        "ordinalQuantity": null,
+        "standardQuantity": 50,
+        "standardUnit": "ml",
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "garlic glove",
+        "ordinalQuantity": 1,
+        "standardQuantity": null,
+        "standardUnit": null,
+        "metricQuantity": null,
+        "metricUnit": null
+      },
+      {
+        "name": "salt, pepper, thyme",
+        "ordinalQuantity": null,
+        "standardQuantity": null,
+        "standardUnit": "to taste",
+        "metricQuantity": null,
+        "metricUnit": "to taste"
+      },
+      {
+        "name": "lemon zest from edible lemon",
+        "ordinalQuantity": null,
+        "standardQuantity": null,
+        "standardUnit": "to taste",
+        "metricQuantity": null,
+        "metricUnit": "to taste"
+      },
+      {
+        "name": "white wine",
+        "ordinalQuantity": null,
+        "standardQuantity": 50,
+        "standardUnit": "ml",
+        "metricQuantity": null,
+        "metricUnit": null
+      }
+    ],
+    "recipeSteps": [
+      {
+        "stepId": 1,
+        "stepType": 9
+      },
+      {
+        "stepId": 2,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "In a bowl, marinate the [0] with [6] and [7] together with [3]",
+        "mediaURLs": [
+          "https://rasamalaysia.com/wp-content/uploads/2019/06/marinated-salmon.jpg"
+        ]
+      },
+      {
+        "stepId": 3,
+        "title": "Reset batter",
+        "stepType": 4,
+        "description": "Clean the [1] cutting off the final part of the stem. Then cut it along side in half",
+        "mediaURLs": [
+          "https://orangesandalmonds.files.wordpress.com/2015/02/dscn2904.jpg"
+        ]
+      },
+      {
+        "stepId": 4,
+        "title": "Reset batter",
+        "stepType": 1,
+        "temperature": 300,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 5,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add the [5] toghether with the [2] and lei it melt",
+        "mediaURLs": [
+          "https://dolciveloci.it/wp-content/uploads/2020/07/SH_burro_in_padella.jpg"
+        ],
+        "temperature": 300,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 6,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Add [1] and stir fry them ",
+        "timeInSeconds": 240,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 300,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 7,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Add the [4] and cover with lid ",
+        "timeInSeconds": 360,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 250,
+        "powerMax": 1000,
+        "powerMin": 50
+      },
+      {
+        "stepId": 8,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Remove [1] together with the [5] from the pan and set aside",
+        "mediaURLs": [
+          "https://primochef.it/wp-content/uploads/2019/03/SH_asparagi_padella-1.jpg"
+        ],
+        "temperature": 250,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 9,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Add the [0] with the skin touching the pan",
+        "timeInSeconds": 360,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 320,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 10,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "FLip the [0] gently",
+        "mediaURLs": [
+          "https://www.africanbites.com/wp-content/uploads/2018/10/IMG_9347.jpg"
+        ],
+        "temperature": 320,
+        "powerMax": 1400,
+        "powerMin": 50
+      },
+      {
+        "stepId": 11,
+        "title": "Reset batter",
+        "stepType": 3,
+        "description": "Add [1] and reduce with [8]",
+        "mediaURLs": [
+          "https://vogliadiriso.it/wp-content/uploads/2019/06/cropped-come_sfumare_riso-1.jpg"
+        ],
+        "temperature": 320,
+        "powerMax": 1100,
+        "powerMin": 50
+      },
+      {
+        "stepId": 12,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "Let the [0] cook throughly",
+        "timeInSeconds": 240,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 285,
+        "powerMax": 1000,
+        "powerMin": 50
+      },
+      {
+        "stepId": 13,
+        "title": "Reset batter",
+        "stepType": 2,
+        "description": "This step will keep the food warm however. If you are ready to serve press done and power off the cooktop by pressing the POWER button.Enjoy!",
+        "mediaURLs": [
+          "https://static.cookist.it/wp-content/uploads/sites/21/2020/03/Salmone-al-forno-con-asparagi-1200x675.jpg"
+        ],
+        "timeInSeconds": 600,
+        "timerValues": [
+          30,
+          60,
+          300
+        ],
+        "temperature": 160,
+        "powerMax": 100,
+        "powerMin": 50
+      }
+    ]
+  }
+]
